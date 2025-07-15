@@ -1,0 +1,3 @@
+[submodule "themes/dolphin"]
+	path = themes/dolphin
+	url = https://github.com/icysamon/dolphin.git
