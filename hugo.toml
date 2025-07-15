@@ -1,0 +1,4 @@
+baseURL = 'https://acgbgm.com/'
+languageCode = 'en-us'
+title = 'Anime BGM'
+theme = 'dolphin'
