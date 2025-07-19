@@ -9,3 +9,6 @@ draft : false
 ---
 
 このサイトは構築中です。
+
+## Test Content
+{{< audio src="https://download.icysamon.com/music/test/test.wav" >}}
