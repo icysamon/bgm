@@ -2,3 +2,7 @@ baseURL = 'https://acgbgm.com/'
 languageCode = 'en-us'
 title = 'Anime BGM'
 theme = 'dolphin'
+
+[Params]
+    [Assets]
+        favicon = '/favicon.ico'
