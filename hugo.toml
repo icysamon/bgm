@@ -1,7 +1,7 @@
-baseURL = 'https://acgbgm.com/'
+baseURL = 'https://animebgm.com/'
 languageCode = 'en-us'
 title = 'Anime BGM'
-theme = 'dolphin'
+theme = 'chord'
 
 [Params]
     [Assets]
