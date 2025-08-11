@@ -1,13 +1,13 @@
 ---
-title : 'Anime BGM'
+title : 'About'
 date : '2025-07-15T18:30:12+09:00'
 author : ['icysamon']
-slug : 'welcome-to-animebgm'
-categories : ['お知らせ']
-tag : ['記事']
-summary : 'Anime BGM へようこそ。'
-description : '今後の展開に向けて'
-draft : false
+slug : 'about'
+categories : ['']
+tag : ['']
+summary : ''
+description : ''
+draft : true
 ---
 
 Anime BGM へようこそ。

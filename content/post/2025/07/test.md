@@ -8,6 +8,7 @@ tag : ['記事']
 summary : 'テスト用。'
 description : ''
 draft : true
+audio: https://download.icysamon.com/music/test/test.wav
 ---
 
 ## サイトテスト
