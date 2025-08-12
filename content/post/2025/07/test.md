@@ -1,15 +1,15 @@
 ---
-title : 'Anime BGM'
+title : 'Test'
 date : '2025-07-16T18:30:00+09:00'
 author : ['icysamon']
 slug : 'test'
-categories : ['お知らせ']
-tag : ['記事']
+categories : ['BGM']
+tags : ['エレクトロ', 'ループ', '明るい']
 summary : 'テスト用。'
 description : ''
 draft : true
-audio: https://download.icysamon.com/music/test/test.wav
+audio: https://download.icysamon.com/music/2025/light-year/light-year.mp3
 ---
 
 ## サイトテスト
-{{< audio src="https://download.icysamon.com/music/test/test.wav" >}}
+{{< audio src="https://download.icysamon.com/music/2025/light-year/light-year.mp3" >}}

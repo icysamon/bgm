@@ -1,6 +1,6 @@
 baseURL = 'https://animebgm.com/'
 languageCode = 'en-us'
-title = 'Anime BGM'
+title = 'アニメ系 BGM'
 theme = 'chord'
 
 [Params]

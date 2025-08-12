@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Anime BGM</title>
-    <link>https://animebgm.com/page/</link>
-    <description>Recent content in Pages on Anime BGM</description>
+    <title>Pages on アニメ系 BGM</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on アニメ系 BGM</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://animebgm.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Jul 2025 18:30:12 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Tue, 15 Jul 2025 18:30:12 +0900</pubDate>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;Anime BGM へようこそ。&lt;/p&gt;&#xA;&lt;h2 id=&#34;animebgmcom-について&#34;&gt;AnimeBGM.COM について&lt;/h2&gt;&#xA;&lt;p&gt;このサイトは、主に私が作ったフリー（無料、商用可）アニメ系 BGM を配信するために構築しています。現時点ではまだ構築中のため、完成までには、まだ長い時間が掛かると思っております。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
