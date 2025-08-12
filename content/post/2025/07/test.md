@@ -7,7 +7,7 @@ categories : ['BGM']
 tags : ['エレクトロ', 'ループ', '明るい']
 summary : 'テスト用。'
 description : ''
-draft : true
+draft : false
 audio: https://download.icysamon.com/music/2025/light-year/light-year.mp3
 ---
 
