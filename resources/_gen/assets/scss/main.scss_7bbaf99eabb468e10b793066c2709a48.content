@@ -77,8 +77,11 @@ div.card, div.page {
   color: #494949; }
 
 div .grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto auto; }
+  display: flex;
+  flex-wrap: wrap; }
+
+div .grid-license {
+  display: flex; }
 
 div .center {
   text-align: center; }
