@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>エレクトロ on アニメ系 BGM</title>
-    <link>http://localhost:1313/tags/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD/</link>
+    <link>https://animebgm.com/tags/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD/</link>
     <description>Recent content in エレクトロ on アニメ系 BGM</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 16 Jul 2025 18:30:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://animebgm.com/tags/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>http://localhost:1313/post/2025/07/test/</link>
+      <title>光年</title>
+      <link>https://animebgm.com/post/2025/07/light-year/</link>
       <pubDate>Wed, 16 Jul 2025 18:30:00 +0900</pubDate>
-      <guid>http://localhost:1313/post/2025/07/test/</guid>
+      <guid>https://animebgm.com/post/2025/07/light-year/</guid>
       <description>テスト用。</description>
+    </item>
+    <item>
+      <title>旅の始まり</title>
+      <link>https://animebgm.com/post/2025/03/beginning-of-the-journey/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0900</pubDate>
+      <guid>https://animebgm.com/post/2025/03/beginning-of-the-journey/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
