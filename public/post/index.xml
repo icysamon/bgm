@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on アニメ系 BGM</title>
-    <link>https://animebgm.com/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on アニメ系 BGM</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Jul 2025 18:30:00 +0900</lastBuildDate>
-    <atom:link href="https://animebgm.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://animebgm.com/post/2025/07/test/</link>
+      <link>http://localhost:1313/post/2025/07/test/</link>
       <pubDate>Wed, 16 Jul 2025 18:30:00 +0900</pubDate>
-      <guid>https://animebgm.com/post/2025/07/test/</guid>
+      <guid>http://localhost:1313/post/2025/07/test/</guid>
       <description>テスト用。</description>
     </item>
     <item>
       <title>Anime BGM</title>
-      <link>https://animebgm.com/post/2025/07/welcome-to-animebgm/</link>
+      <link>http://localhost:1313/post/2025/07/welcome-to-animebgm/</link>
       <pubDate>Tue, 15 Jul 2025 18:30:12 +0900</pubDate>
-      <guid>https://animebgm.com/post/2025/07/welcome-to-animebgm/</guid>
+      <guid>http://localhost:1313/post/2025/07/welcome-to-animebgm/</guid>
       <description>Anime BGM へようこそ。</description>
     </item>
   </channel>

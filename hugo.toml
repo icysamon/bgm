@@ -14,11 +14,11 @@ theme = 'chord'
     weight = 10
     [[menus.main]]
     name = 'About'
-    pageRef = '/about/'
+    pageRef = '/page/about/'
     weight = 20
 
 [params.license]
-  link = '/'
+  link = '/terms-of-service/'
   text = '利用規約はこちら'
 
   [[params.license.main]]
@@ -40,3 +40,7 @@ theme = 'chord'
     svg = 'svg/ban.svg'
     text = 'AIなし'
     weight = 40
+
+[permalinks]
+  post = '/post/:year/:month/:slug/'
+  page = '/:slug/'
