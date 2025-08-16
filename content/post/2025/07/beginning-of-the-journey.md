@@ -8,5 +8,12 @@ tags : ['エレクトロ', 'モチベーション・ハッピー']
 summary : ''
 draft : false
 audio: https://download.icysamon.com/music/2025/beginning-of-the-journey/beginning-of-the-journey.mp3
+download:
+  - type: 'mp3'
+    link: 'https://download.icysamon.com/music/2025/beginning-of-the-journey/beginning-of-the-journey.mp3'
+  - type: 'ogg'
+    link: 'https://download.icysamon.com/music/2025/beginning-of-the-journey/beginning-of-the-journey.ogg'
+  - type: 'streaming'
+    link: 'https://linkco.re/xyG6xA4X'
 ---
 
