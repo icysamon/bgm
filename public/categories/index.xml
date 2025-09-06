@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on AnimeBGM</title>
-    <link>https://animebgm.com/categories/</link>
-    <description>Recent content in Categories on AnimeBGM</description>
+    <title>Categories on FreeBGM</title>
+    <link>https://bgm.icysamon.com/categories/</link>
+    <description>Recent content in Categories on FreeBGM</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://animebgm.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bgm.icysamon.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BGM</title>
-      <link>https://animebgm.com/categories/bgm/</link>
+      <link>https://bgm.icysamon.com/categories/bgm/</link>
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0900</pubDate>
-      <guid>https://animebgm.com/categories/bgm/</guid>
+      <guid>https://bgm.icysamon.com/categories/bgm/</guid>
       <description></description>
     </item>
   </channel>

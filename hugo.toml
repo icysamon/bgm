@@ -1,6 +1,6 @@
-baseURL = 'https://animebgm.com/'
+baseURL = 'https://bgm.icysamon.com/'
 languageCode = 'ja-jp'
-title = 'AnimeBGM'
+title = 'FreeBGM'
 theme = 'chord'
 
 [menus]
