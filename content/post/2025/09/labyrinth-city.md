@@ -16,3 +16,10 @@ download:
   - type: 'streaming'
     link: 'https://linkco.re/yRD4sx2Y'
 ---
+
+## Loop Offset
+- 112.0 sec
+- 4939200 samples
+
+## 利用規約
+[https://bgm.icysamon.com/terms-of-service/](/terms-of-service/)

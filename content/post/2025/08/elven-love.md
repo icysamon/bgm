@@ -17,3 +17,5 @@ download:
     link: 'https://linkco.re/dY181bxP'
 ---
 
+## 利用規約
+[https://bgm.icysamon.com/terms-of-service/](/terms-of-service/)

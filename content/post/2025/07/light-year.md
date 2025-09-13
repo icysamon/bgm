@@ -17,5 +17,5 @@ download:
     link: 'https://linkco.re/tGbPetG4'
 ---
 
-## サイトテスト
-{{< audio src="https://download.icysamon.com/music/2025/light-year/light-year.mp3" >}}
+## 利用規約
+[https://bgm.icysamon.com/terms-of-service/](/terms-of-service/)
