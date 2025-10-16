@@ -1,6 +1,6 @@
 baseURL = 'https://icysamon.github.io/'
 languageCode = 'ja-jp'
-title = 'FreeBGM'
+title = '無料BGM素材'
 theme = 'chord'
 
 [menus]
@@ -37,11 +37,6 @@ theme = 'chord'
     svg = 'svg/report-off.svg'
     text = '報告不要'
     weight = 30
-
-  [[params.license.main]]
-    svg = 'svg/ban.svg'
-    text = 'AIなし'
-    weight = 40
 
 [params]
   copyright = 'icysamon'
