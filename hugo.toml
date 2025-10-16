@@ -41,6 +41,7 @@ theme = 'chord'
 [params]
   copyright = 'icysamon'
   homepageurl = 'https://icysamon.com'
+  year = '2025'
   [assets]
     favicon = '/favicon.ico'
 
