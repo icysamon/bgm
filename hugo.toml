@@ -3,6 +3,15 @@ languageCode = 'ja-jp'
 title = '無料BGM素材'
 theme = 'chord'
 
+[permalinks]
+  post = '/post/:year/:month/:slug/'
+  page = '/:slug/'
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = '0.146.0'
+
 [menus]
   [[menus.main]]
     name = 'Home'
@@ -14,37 +23,29 @@ theme = 'chord'
     pageRef = '/page/about/'
     weight = 20
 
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = '0.146.0'
-
-[params.license]
-  link = '/terms-of-service/'
-  text = '利用規約はこちら'
-
-  [[params.license.main]]
-    svg = 'svg/businessplan.svg'
-    text = '商用OK'
-    weight = 10
-
-  [[params.license.main]]
-    svg = 'svg/free-rights.svg'
-    text = '完全無料'
-    weight = 20
-
-  [[params.license.main]]
-    svg = 'svg/report-off.svg'
-    text = '報告不要'
-    weight = 30
+[assets]
+  favicon = '/favicon.ico'
 
 [params]
+  year = '2025'
   copyright = 'icysamon'
   homepageurl = 'https://icysamon.com'
-  year = '2025'
-  [assets]
-    favicon = '/favicon.ico'
 
-[permalinks]
-  post = '/post/:year/:month/:slug/'
-  page = '/:slug/'
+  [params.license]
+    link = '/terms-of-service/'
+    text = '利用規約はこちら'
+
+    [[params.license.terms]]
+      svg = 'svg/businessplan.svg'
+      text = '商用OK'
+      weight = 10
+
+    [[params.license.terms]]
+      svg = 'svg/free-rights.svg'
+      text = '完全無料'
+      weight = 20
+
+    [[params.license.terms]]
+      svg = 'svg/report-off.svg'
+      text = '報告不要'
+      weight = 30
