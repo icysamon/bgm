@@ -43,7 +43,7 @@ defaultContentLanguage = "ja"
 
     [[params.license.terms]]
       svg = 'svg/free-rights.svg'
-      text = '完全無料'
+      text = '無料'
       weight = 20
 
     [[params.license.terms]]
