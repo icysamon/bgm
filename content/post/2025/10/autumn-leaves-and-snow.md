@@ -4,7 +4,7 @@ date : '2025-10-25T00:00:00+09:00'
 author : ['icysamon']
 slug : 'autumn-leaves-and-snow'
 categories : ['BGM']
-tags : ['インストゥルメンタル', 'ドライヴ・トラベル']
+tags : ['インストゥルメンタル', 'ドライヴ・トラベル', 'ループ']
 summary : ''
 draft : false
 audio: https://download.icysamon.com/music/2hoursdtm/1457/autumn-leaves-and-snow.mp3
