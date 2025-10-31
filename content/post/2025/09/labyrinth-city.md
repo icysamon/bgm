@@ -17,7 +17,7 @@ download:
     link: 'https://linkco.re/yRD4sx2Y'
 ---
 
-## Loop Offset
+## ループオフセット
 - 112.0 sec
 - 4939200 samples
 
