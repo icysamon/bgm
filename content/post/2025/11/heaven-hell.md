@@ -1,8 +1,8 @@
 ---
-title : '天獄地獄'
+title : '天国地獄'
 date : '2025-11-01T00:00:00+09:00'
 author : ['icysamon']
-slug : 'sky-diving'
+slug : 'heaven-hell'
 categories : ['BGM']
 tags : ['インストゥルメンタル', 'ブルー・サッド']
 summary : ''
