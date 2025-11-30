@@ -10,7 +10,6 @@ description : ''
 draft : false
 ---
 
-[bgm.icysamon.com](/) は無料BGM素材サイトです。
+[bgm.icysamon.com](/) はフリー BGM 素材サイトです。
 
-## Link
-- [利用規約](/terms-of-service/)
+当サイトの素材を利用前に必ず[利用規約](/terms-of-service/)をご確認してください。

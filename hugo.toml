@@ -15,14 +15,19 @@ defaultContentLanguage = "ja"
 
 [menus]
   [[menus.main]]
-    name = 'Home'
+    name = 'ホーム'
     pageRef = '/'
     weight = 10
+
+  [[menus.main]]
+    name = '利用規約'
+    pageRef = '/page/terms-of-service/'
+    weight = 20
   
   [[menus.main]]
-    name = 'About'
+    name = 'サイトについて'
     pageRef = '/page/about/'
-    weight = 20
+    weight = 30
 
 [assets]
   favicon = '/favicon.ico'
@@ -33,23 +38,4 @@ defaultContentLanguage = "ja"
   homepageurl = 'https://icysamon.com'
   subtitle = 'フリーBGM'
   image = 'https://image.icysamon.com/avatar/artist.webp'
-
-  [params.license]
-    link = '/terms-of-service/'
-    text = '利用規約はこちら'
-
-    [[params.license.terms]]
-      svg = 'svg/businessplan.svg'
-      text = '商用OK'
-      weight = 10
-
-    [[params.license.terms]]
-      svg = 'svg/free-rights.svg'
-      text = '無料'
-      weight = 20
-
-    [[params.license.terms]]
-      svg = 'svg/report-off.svg'
-      text = '報告不要'
-      weight = 30
 
