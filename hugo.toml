@@ -1,6 +1,6 @@
 baseURL = 'https://icysamon.github.io/'
 languageCode = 'ja-jp'
-title = '無料BGM素材'
+title = '水深７メートル'
 theme = 'chord'
 defaultContentLanguage = "ja"
 
@@ -31,6 +31,8 @@ defaultContentLanguage = "ja"
   year = '2025'
   copyright = 'icysamon'
   homepageurl = 'https://icysamon.com'
+  subtitle = 'フリーBGM'
+  image = 'https://image.icysamon.com/avatar/artist.webp'
 
   [params.license]
     link = '/terms-of-service/'
