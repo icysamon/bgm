@@ -4,6 +4,9 @@ title = '水深７メートル'
 theme = 'chord'
 defaultContentLanguage = "ja"
 
+[pagination]
+pagerSize = 6
+
 [permalinks]
   post = '/post/:year/:month/:slug/'
   page = '/:slug/'
