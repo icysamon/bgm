@@ -3,6 +3,7 @@ languageCode = 'ja-jp'
 title = '水深７メートル'
 theme = 'chord'
 defaultContentLanguage = "ja"
+buildFuture = true
 
 [pagination]
 pagerSize = 6
