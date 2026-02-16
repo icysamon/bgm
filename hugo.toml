@@ -8,6 +8,47 @@ buildFuture = true
 [pagination]
 pagerSize = 6
 
+[languages]
+  [languages.ja]
+    languageName = '日本語'
+    weight = 1
+    title = '水深７メートル'
+    [languages.ja.menus]
+      [[languages.ja.menus.main]]
+        name = 'ホーム'
+        pageRef = '/'
+        weight = 10
+
+      [[languages.ja.menus.main]]
+        name = '利用規約'
+        pageRef = '/page/terms-of-service/'
+        weight = 20
+      
+      [[languages.ja.menus.main]]
+        name = 'サイトについて'
+        pageRef = '/page/about/'
+        weight = 30
+
+  [languages.en]
+    languageName = 'English'
+    weight = 2
+    title = 'Depth of 7 Meters'
+    [languages.en.menus]
+      [[languages.en.menus.main]]
+        name = 'Home'
+        pageRef = '/'
+        weight = 10
+
+      [[languages.en.menus.main]]
+        name = 'Terms of Service'
+        pageRef = '/page/terms-of-service/'
+        weight = 20
+      
+      [[languages.en.menus.main]]
+        name = 'About'
+        pageRef = '/page/about/'
+        weight = 30
+
 [permalinks]
   post = '/post/:year/:month/:slug/'
   page = '/:slug/'
@@ -16,22 +57,6 @@ pagerSize = 6
   [module.hugoVersion]
     extended = true
     min = '0.146.0'
-
-[menus]
-  [[menus.main]]
-    name = 'ホーム'
-    pageRef = '/'
-    weight = 10
-
-  [[menus.main]]
-    name = '利用規約'
-    pageRef = '/page/terms-of-service/'
-    weight = 20
-  
-  [[menus.main]]
-    name = 'サイトについて'
-    pageRef = '/page/about/'
-    weight = 30
 
 [assets]
   favicon = '/favicon.ico'

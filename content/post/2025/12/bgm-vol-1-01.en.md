@@ -1,10 +1,10 @@
 ---
-title : 'ハロウィンモンスターたちの酒場'
+title : "Halloween Monsters' Tavern"
 date : '2025-12-25T00:00:01+09:00'
 author : ['icysamon']
 slug : 'bgm-vol-1-01'
 categories : ['BGM']
-tags : ['インストゥルメンタル', 'パーティー']
+tags : ['instrumental', 'party']
 summary : ''
 draft : false
 audio: https://download.icysamon.com/music/2025/bgm-vol-1/Halloween%20Monsters'%20Tavern.mp3
