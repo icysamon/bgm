@@ -28,6 +28,8 @@ pagerSize = 6
         name = 'サイトについて'
         pageRef = '/page/about/'
         weight = 30
+    [languages.ja.params]
+      label = "JP"
 
   [languages.en]
     languageName = 'English'
@@ -48,6 +50,8 @@ pagerSize = 6
         name = 'About'
         pageRef = '/page/about/'
         weight = 30
+    [languages.en.params]
+      label = "EN"
 
 [permalinks]
   post = '/post/:year/:month/:slug/'
