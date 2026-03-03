@@ -1,5 +1,5 @@
 ---
-title : 'Skydiving (English page is still building)'
+title : 'Skydiving'
 date : '2025-12-25T00:00:02+09:00'
 author : ['icysamon']
 slug : 'bgm-vol-1-02'
